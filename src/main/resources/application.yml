@@ -1,0 +1,8 @@
+
+# line boot app name: danautoba
+
+line.bot:
+  channel-token: 'Put Your Channel Token Here.'
+  channel-secret: 'WBDbAvk3uMf+2iu0lpmUuakcIpg9y6JcBe5SDTtwEiceFPLiW0PVYqyhvirSJH5JNbqoH/UvqIQ62kezhF+JS81c8MxkAbQ87pWiHE2dgh3Uvlud6rqC17n7ihHNBuYAQrhFhQwm2Xhzwob6IKfYCAdB04t89/1O/w1cDnyilFU='
+  handler.path: /callback
+  
